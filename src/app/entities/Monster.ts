@@ -1,5 +1,5 @@
 // @ts-ignore
-import MonsterImageSrc from '../public/monster.webp';
+import MonsterImageSrc from '../public/choonsik.jpeg';
 import {state} from './../systems/state';
 
 export class Monster {
